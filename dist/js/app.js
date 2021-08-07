@@ -201,7 +201,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
 /* harmony import */ var vuex__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vuex */ "./node_modules/vuex/dist/vuex.esm.js");
 
 //
@@ -262,7 +262,7 @@ __webpack_require__.r(__webpack_exports__);
   created: function created() {
     this.getVerifyCode();
   },
-  methods: Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])(Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_1__["mapActions"])(['toGetVerifyCode', 'toWxUserRelation'])), {}, {
+  methods: Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])(Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_1__["mapActions"])(['toGetVerifyCode', 'toWxUserRelation'])), {}, {
     getVerifyCode: function getVerifyCode() {
       var _this = this;
 
@@ -313,7 +313,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var core_js_modules_es_array_for_each__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_for_each__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var core_js_modules_web_dom_collections_for_each__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! core-js/modules/web.dom-collections.for-each */ "./node_modules/core-js/modules/web.dom-collections.for-each.js");
 /* harmony import */ var core_js_modules_web_dom_collections_for_each__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_dom_collections_for_each__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
 /* harmony import */ var vuex__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! vuex */ "./node_modules/vuex/dist/vuex.esm.js");
 
 
@@ -436,7 +436,7 @@ __webpack_require__.r(__webpack_exports__);
       return index;
     }
   },
-  methods: Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_2__["default"])(Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_2__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_3__["mapActions"])(["queryWxCaseLog", "queryWxNewCaseStatus"])), {}, {
+  methods: Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_2__["default"])(Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_2__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_3__["mapActions"])(["queryWxCaseLog", "queryWxNewCaseStatus"])), {}, {
     toqueryWxCaseLog: function toqueryWxCaseLog() {
       var _this = this;
 
@@ -526,7 +526,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var core_js_modules_es_function_name__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_function_name__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var core_js_modules_web_dom_collections_for_each__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! core-js/modules/web.dom-collections.for-each */ "./node_modules/core-js/modules/web.dom-collections.for-each.js");
 /* harmony import */ var core_js_modules_web_dom_collections_for_each__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_web_dom_collections_for_each__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
 /* harmony import */ var _assets_js_enumerations_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../assets/js/enumerations.js */ "./src/assets/js/enumerations.js");
 /* harmony import */ var _assets_js_util_js__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../assets/js/util.js */ "./src/assets/js/util.js");
 /* harmony import */ var vuex__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! vuex */ "./node_modules/vuex/dist/vuex.esm.js");
@@ -695,7 +695,7 @@ __webpack_require__.r(__webpack_exports__);
     this.isShowAll = false;
     this.getCode(); // this.queryWxCaseBaseInfoCache();
   },
-  computed: Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_4__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_7__["mapState"])({
+  computed: Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_4__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_7__["mapState"])({
     // openid(state) {
     //   return state.caseInfo.userInfo.openid || "";
     // },
@@ -703,7 +703,7 @@ __webpack_require__.r(__webpack_exports__);
       return state.caseInfo.userInfo || {};
     }
   })),
-  methods: Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_4__["default"])(Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_4__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_7__["mapActions"])(["saveReportCaseBaseInfo", "getWxUserInfo", "queryAllSalesman", "toSaveWxCaseBaseInfoCache", "toQueryWxCaseBaseInfoCache"])), {}, {
+  methods: Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_4__["default"])(Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_4__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_7__["mapActions"])(["saveReportCaseBaseInfo", "getWxUserInfo", "queryAllSalesman", "toSaveWxCaseBaseInfoCache", "toQueryWxCaseBaseInfoCache"])), {}, {
     getqueryAllSalesman: function getqueryAllSalesman() {
       var _this = this;
 
@@ -947,7 +947,7 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var core_js_modules_es_array_includes__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es.array.includes */ "./node_modules/core-js/modules/es.array.includes.js");
 /* harmony import */ var core_js_modules_es_array_includes__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_array_includes__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
 /* harmony import */ var vuex__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! vuex */ "./node_modules/vuex/dist/vuex.esm.js");
 
 
@@ -1015,7 +1015,7 @@ __webpack_require__.r(__webpack_exports__);
   created: function created() {
     this.getqueryWxCaseStatusList();
   },
-  methods: Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_1__["default"])(Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_1__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_2__["mapActions"])(['queryWxCaseStatusList'])), {}, {
+  methods: Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_1__["default"])(Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_1__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_2__["mapActions"])(['queryWxCaseStatusList'])), {}, {
     getqueryWxCaseStatusList: function getqueryWxCaseStatusList() {
       var _this = this;
 
@@ -1050,9 +1050,13 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
 /* harmony import */ var vuex__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vuex */ "./node_modules/vuex/dist/vuex.esm.js");
 
+//
+//
+//
+//
 //
 //
 //
@@ -1078,7 +1082,7 @@ __webpack_require__.r(__webpack_exports__);
       caseNo: ''
     };
   },
-  methods: Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])(Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_1__["mapActions"])(["toCaseBaseInfoRelation"])), {}, {
+  methods: Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])(Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_1__["mapActions"])(["toCaseBaseInfoRelation"])), {}, {
     toCaseInfoRelation: function toCaseInfoRelation() {
       var _this = this;
 
@@ -1114,7 +1118,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
 /* harmony import */ var vuex__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vuex */ "./node_modules/vuex/dist/vuex.esm.js");
 
 //
@@ -1147,7 +1151,7 @@ __webpack_require__.r(__webpack_exports__);
       showUuid: false
     };
   },
-  methods: Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])(Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_1__["mapActions"])(['toDeleteWxUserRelation'])), {}, {
+  methods: Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])(Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_1__["mapActions"])(['toDeleteWxUserRelation'])), {}, {
     wxDeleteUserRelation: function wxDeleteUserRelation() {
       var _this = this;
 
@@ -1181,7 +1185,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
 /* harmony import */ var _assets_js_util_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/js/util.js */ "./src/assets/js/util.js");
 /* harmony import */ var vuex__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! vuex */ "./node_modules/vuex/dist/vuex.esm.js");
 
@@ -1264,12 +1268,12 @@ __webpack_require__.r(__webpack_exports__);
   created: function created() {
     this.getCode();
   },
-  computed: Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_2__["mapState"])({
+  computed: Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_2__["mapState"])({
     userInfo: function userInfo(state) {
       return state.caseInfo.userInfo || {};
     }
   })),
-  methods: Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])(Object(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_2__["mapActions"])(["getWxUserInfo"])), {}, {
+  methods: Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])(Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_2__["mapActions"])(["getWxUserInfo"])), {}, {
     getCode: function getCode() {
       // 判断是否有授权后用户信息,有信息则不再获取
       if (this.userInfo.nickname) {
@@ -1334,6 +1338,9 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/objectSpread2 */ "./node_modules/@babel/runtime/helpers/esm/objectSpread2.js");
+/* harmony import */ var vuex__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! vuex */ "./node_modules/vuex/dist/vuex.esm.js");
+
 //
 //
 //
@@ -1347,15 +1354,52 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
-    return {};
+    return {
+      systemUserName: '',
+      showRelationUser: false
+    };
   },
-  methods: {
+  created: function created() {
+    this.queryWxUserRelation();
+  },
+  methods: Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])(Object(D_workSpace_yeanClaim_claim_wx_node_modules_babel_runtime_helpers_esm_objectSpread2__WEBPACK_IMPORTED_MODULE_0__["default"])({}, Object(vuex__WEBPACK_IMPORTED_MODULE_1__["mapActions"])(["toQueryWxUserRelation"])), {}, {
+    queryWxUserRelation: function queryWxUserRelation() {
+      var _this = this;
+
+      this.toQueryWxUserRelation().then(function () {
+        var data = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
+
+        if (data.code === 200) {
+          var dataJson = data.data;
+          console.log(dataJson);
+
+          if (dataJson) {
+            _this.systemUserName = dataJson.username;
+            _this.showRelationUser = true;
+          }
+        }
+      });
+    },
     onClickLeft: function onClickLeft() {
       this.$router.go(-1);
     }
-  }
+  })
 });
 
 /***/ }),
@@ -2005,6 +2049,17 @@ var render = function() {
           )
         ],
         1
+      ),
+      _c(
+        "van-notice-bar",
+        {
+          attrs: { background: "#ecf9ff", "left-icon": "info-o", wrapable: "" }
+        },
+        [
+          _vm._v(
+            " 支持单个或批量关联，如果需要批量关联，请将多个案件号用,号连接，如：12345,23456,34567, 单次批量关联数量最多支持20个 "
+          )
+        ]
       )
     ],
     1
@@ -2048,7 +2103,7 @@ var render = function() {
               type: "password",
               name: "密码",
               label: "密码",
-              placeholder: "请输入账号密码",
+              placeholder: "请输入关联账号密码",
               rules: [{ required: true, message: "请填写密码" }]
             },
             model: {
@@ -2287,6 +2342,60 @@ var render = function() {
         on: { "click-left": _vm.onClickLeft }
       }),
       _c(
+        "section",
+        {
+          directives: [
+            {
+              name: "show",
+              rawName: "v-show",
+              value: !_vm.showRelationUser,
+              expression: "!showRelationUser"
+            }
+          ]
+        },
+        [_c("van-empty", { attrs: { description: "暂未关联账号" } })],
+        1
+      ),
+      _c(
+        "section",
+        {
+          directives: [
+            {
+              name: "show",
+              rawName: "v-show",
+              value: _vm.showRelationUser,
+              expression: "showRelationUser"
+            }
+          ]
+        },
+        [
+          _c(
+            "van-cell-group",
+            { attrs: { inset: "" } },
+            [
+              _c("van-cell", {
+                attrs: { value: this.systemUserName },
+                scopedSlots: _vm._u([
+                  {
+                    key: "title",
+                    fn: function() {
+                      return [
+                        _c("span", { staticStyle: { "font-weight": "bold" } }, [
+                          _vm._v("已关联的理赔账户:")
+                        ])
+                      ]
+                    },
+                    proxy: true
+                  }
+                ])
+              })
+            ],
+            1
+          )
+        ],
+        1
+      ),
+      _c(
         "van-grid",
         { attrs: { clickable: "", "column-num": 2 } },
         [
@@ -2336,7 +2445,7 @@ render._withStripped = true
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(false);
 // Module
-exports.push([module.i, "html,body{\n    width: 100vw;\n    height: 100vh;\n    background: #eceaea\n  }\n*{margin: 0; padding: 0;}\n.t_r{\n    text-align: right;\n}\n.m_16{\n    margin: .5rem;\n}\n.b_g_g{\n    background: #f3f5f4 !important\n}\n.h_15{\n    height: 1.5rem;\n    line-height: 1.5rem;\n}\n.b_g_grey{\n    background: #eceaea\n}\n.m_t_2{\n    margin-top: .2rem;\n}\n.b_g_white{\n    background: #ffffff\n}\n.m_1{\n    margin: .1rem 0;\n}\n.lod_box{\n    width: 1rem;\n    height: 1rem;\n    position: fixed;\n    top: 50%;\n    left: 50%;\n    margin-left: -0.5rem;\n    margin-top: -.5rem;\n}\n.h_117{\n    height: 1.17rem;\n    line-height: 1.17rem;\n}\n.h_60{\n    height: 0.60rem;\n    line-height: 0.60rem;\n}\n.f_4{\n    font-size: 0.4rem;\n}\n.f_3{\n    font-size: 0.3rem;\n}\n.m_l_5{\n    margin-left: 0.5rem;\n}\n.m_t_1{\n    margin-top: 0.1rem;\n}\n.d_f{\n    display: flex;\n    justify-content: space-around;\n    background: #ffffff;\n}\n.b_1{\n    border: .01rem solid #edeaea;\n}\n.t_a_c{\n    text-align: center;\n}\n.over_f_unset{\n    overflow: unset;\n}", ""]);
+exports.push([module.i, "html,body{\r\n    width: 100vw;\r\n    height: 100vh;\r\n    background: #eceaea\r\n  }\r\n*{margin: 0; padding: 0;}\r\n.t_r{\r\n    text-align: right;\r\n}\r\n.m_16{\r\n    margin: .5rem;\r\n}\r\n.b_g_g{\r\n    background: #f3f5f4 !important\r\n}\r\n.h_15{\r\n    height: 1.5rem;\r\n    line-height: 1.5rem;\r\n}\r\n.b_g_grey{\r\n    background: #eceaea\r\n}\r\n.m_t_2{\r\n    margin-top: .2rem;\r\n}\r\n.b_g_white{\r\n    background: #ffffff\r\n}\r\n.m_1{\r\n    margin: .1rem 0;\r\n}\r\n.lod_box{\r\n    width: 1rem;\r\n    height: 1rem;\r\n    position: fixed;\r\n    top: 50%;\r\n    left: 50%;\r\n    margin-left: -0.5rem;\r\n    margin-top: -.5rem;\r\n}\r\n.h_117{\r\n    height: 1.17rem;\r\n    line-height: 1.17rem;\r\n}\r\n.h_60{\r\n    height: 0.60rem;\r\n    line-height: 0.60rem;\r\n}\r\n.f_4{\r\n    font-size: 0.4rem;\r\n}\r\n.f_3{\r\n    font-size: 0.3rem;\r\n}\r\n.m_l_5{\r\n    margin-left: 0.5rem;\r\n}\r\n.m_t_1{\r\n    margin-top: 0.1rem;\r\n}\r\n.d_f{\r\n    display: flex;\r\n    justify-content: space-around;\r\n    background: #ffffff;\r\n}\r\n.b_1{\r\n    border: .01rem solid #edeaea;\r\n}\r\n.t_a_c{\r\n    text-align: center;\r\n}\r\n.over_f_unset{\r\n    overflow: unset;\r\n}", ""]);
 // Exports
 module.exports = exports;
 
@@ -2354,7 +2463,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(false);
 // Module
-exports.push([module.i, "\n#app {\n  font-family: Avenir, Helvetica, Arial, sans-serif;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n  text-align: center;\n  color: #2c3e50;\n  margin-top: 60px;\n}\n", ""]);
+exports.push([module.i, "\n#app {\r\n  font-family: Avenir, Helvetica, Arial, sans-serif;\r\n  -webkit-font-smoothing: antialiased;\r\n  -moz-osx-font-smoothing: grayscale;\r\n  text-align: center;\r\n  color: #2c3e50;\r\n  margin-top: 60px;\n}\r\n", ""]);
 // Exports
 module.exports = exports;
 
@@ -2372,7 +2481,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(false);
 // Module
-exports.push([module.i, "\n.head_b_img_box[data-v-416a5594] {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 1.5rem;\n}\n.head_b_img_b[data-v-416a5594] {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n.head_borer[data-v-416a5594] {\n  width: 1.3rem;\n  height: 1.3rem;\n  border: 0.02rem solid #edeaea;\n  border-radius: 50%;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n.head_b[data-v-416a5594] {\n  width: 1.1rem;\n  height: 1.1rem;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n}\n.head_b_img[data-v-416a5594] {\n  width: 0.6rem;\n  height: 0.6rem;\n  border-radius: 50%;\n}\n.my_case[data-v-416a5594]{\n  display: flex;\n    justify-content: space-between;\n    height: 1.1rem;\n    align-items: center;\n}\n", ""]);
+exports.push([module.i, "\n.head_b_img_box[data-v-416a5594] {\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  height: 1.5rem;\n}\n.head_b_img_b[data-v-416a5594] {\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\n}\n.head_borer[data-v-416a5594] {\r\n  width: 1.3rem;\r\n  height: 1.3rem;\r\n  border: 0.02rem solid #edeaea;\r\n  border-radius: 50%;\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\n}\n.head_b[data-v-416a5594] {\r\n  width: 1.1rem;\r\n  height: 1.1rem;\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\n}\n.head_b_img[data-v-416a5594] {\r\n  width: 0.6rem;\r\n  height: 0.6rem;\r\n  border-radius: 50%;\n}\n.my_case[data-v-416a5594]{\r\n  display: flex;\r\n    justify-content: space-between;\r\n    height: 1.1rem;\r\n    align-items: center;\n}\r\n", ""]);
 // Exports
 module.exports = exports;
 
@@ -2537,6 +2646,8 @@ exports.api = {
   deleteWxUserRelation: "".concat(orign, "/api/wx/deleteWxUserRelation"),
   //微信用户绑定
   wxUserRelation: "".concat(orign, "/api/wx/wxUserRelation"),
+  //微信用户绑定查询
+  selectWxUserRelation: "".concat(orign, "/api/wx/selectWxUserRelation"),
   //微信用户案件转接绑定
   wxCaseBaseInfoRelation: "".concat(orign, "/auth/wx/wxCaseBaseInfoRelation"),
   //微信用户报案信息缓存查询
@@ -3211,14 +3322,14 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var core_js_modules_es_object_to_string__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es.object.to-string */ "./node_modules/core-js/modules/es.object.to-string.js");
 /* harmony import */ var core_js_modules_es_object_to_string__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es_object_to_string__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_array_iterator_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/core-js/modules/es.array.iterator.js */ "./node_modules/core-js/modules/es.array.iterator.js");
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_array_iterator_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_array_iterator_js__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_promise_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/core-js/modules/es.promise.js */ "./node_modules/core-js/modules/es.promise.js");
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_promise_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_promise_js__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/core-js/modules/es.object.assign.js */ "./node_modules/core-js/modules/es.object.assign.js");
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_promise_finally_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./node_modules/core-js/modules/es.promise.finally.js */ "./node_modules/core-js/modules/es.promise.finally.js");
-/* harmony import */ var _Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_promise_finally_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_Users_moon_mountains_Desktop_projects_claim_wx_node_modules_core_js_modules_es_promise_finally_js__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_array_iterator_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/core-js/modules/es.array.iterator.js */ "./node_modules/core-js/modules/es.array.iterator.js");
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_array_iterator_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_array_iterator_js__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_promise_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/core-js/modules/es.promise.js */ "./node_modules/core-js/modules/es.promise.js");
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_promise_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_promise_js__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/core-js/modules/es.object.assign.js */ "./node_modules/core-js/modules/es.object.assign.js");
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_object_assign_js__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_promise_finally_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./node_modules/core-js/modules/es.promise.finally.js */ "./node_modules/core-js/modules/es.promise.finally.js");
+/* harmony import */ var D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_promise_finally_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(D_workSpace_yeanClaim_claim_wx_node_modules_core_js_modules_es_promise_finally_js__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _assets_css_main_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./assets/css/main.css */ "./src/assets/css/main.css");
 /* harmony import */ var _assets_css_main_css__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_assets_css_main_css__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.runtime.esm.js");
@@ -3232,8 +3343,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var axios__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(axios__WEBPACK_IMPORTED_MODULE_11__);
 /* harmony import */ var vue_router__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! vue-router */ "./node_modules/vue-router/dist/vue-router.esm.js");
 /* harmony import */ var _router_router_js__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./router/router.js */ "./src/router/router.js");
-/* harmony import */ var vconsole__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! vconsole */ "./node_modules/vconsole/dist/vconsole.min.js");
-/* harmony import */ var vconsole__WEBPACK_IMPORTED_MODULE_14___default = /*#__PURE__*/__webpack_require__.n(vconsole__WEBPACK_IMPORTED_MODULE_14__);
 
 
 
@@ -3248,8 +3357,8 @@ __webpack_require__.r(__webpack_exports__);
  // import App from './App.vue'
 
 
-
- // Vue.config.productionTip = false
+ // import Vconsole from 'vconsole';
+// Vue.config.productionTip = false
 
 var originalPush = vue_router__WEBPACK_IMPORTED_MODULE_12__["default"].prototype.push;
 
@@ -3285,8 +3394,8 @@ function (error) {
 });
 vue__WEBPACK_IMPORTED_MODULE_6__["default"].use(vue_router__WEBPACK_IMPORTED_MODULE_12__["default"]);
 vue__WEBPACK_IMPORTED_MODULE_6__["default"].use(axios__WEBPACK_IMPORTED_MODULE_11___default.a);
-vue__WEBPACK_IMPORTED_MODULE_6__["default"].use(vant__WEBPACK_IMPORTED_MODULE_8__["default"]);
-vue__WEBPACK_IMPORTED_MODULE_6__["default"].use(new vconsole__WEBPACK_IMPORTED_MODULE_14___default.a());
+vue__WEBPACK_IMPORTED_MODULE_6__["default"].use(vant__WEBPACK_IMPORTED_MODULE_8__["default"]); // Vue.use(new Vconsole());
+
 _router_router_js__WEBPACK_IMPORTED_MODULE_13__["default"].beforeEach(function (to, from, next) {
   console.log('--router to', to.fullPath);
   next();
@@ -3538,6 +3647,22 @@ var caseInfo = {
         return res;
       }).catch(function (err) {
         console.log('toGetVerifyCode----err', err);
+      });
+    },
+    //绑定用户查询
+    toQueryWxUserRelation: function toQueryWxUserRelation(context) {
+      var params = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {};
+      return axios__WEBPACK_IMPORTED_MODULE_0___default()({
+        headers: {
+          'Authorization': context.state.userInfo.token || ''
+        },
+        method: 'post',
+        url: _api_urls_js__WEBPACK_IMPORTED_MODULE_1__["api"].selectWxUserRelation,
+        data: params
+      }).then(function (res) {
+        return res;
+      }).catch(function (err) {
+        console.log('selectWxUserRelation----err', err);
       });
     },
     //绑定用户

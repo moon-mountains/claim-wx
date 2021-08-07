@@ -126,6 +126,21 @@ const caseInfo = {
                 console.log('toGetVerifyCode----err', err)
             });
         },
+        //绑定用户查询
+        toQueryWxUserRelation(context, params ={}) {
+            return axios({
+                headers: {
+                    'Authorization': context.state.userInfo.token || ''
+                },
+                method: 'post',
+                url: api.selectWxUserRelation,
+                data: params
+            }).then(res => {
+                return res
+            }).catch(err => {
+                console.log('selectWxUserRelation----err', err)
+            });
+        },
         //绑定用户
         toWxUserRelation(context, params ={}) {
             return axios({

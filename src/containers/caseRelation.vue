@@ -13,6 +13,10 @@
                 <van-button round block type="info" native-type="submit">确定关联</van-button>
             </div>
         </van-form>
+        <van-notice-bar  background="#ecf9ff" left-icon="info-o" wrapable>
+            支持单个或批量关联，如果需要批量关联，请将多个案件号用,号连接，如：12345,23456,34567,
+            单次批量关联数量最多支持20个
+        </van-notice-bar>
     </section>
 </template>
 

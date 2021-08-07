@@ -20,6 +20,8 @@ exports.api = {
     deleteWxUserRelation: `${orign}/api/wx/deleteWxUserRelation`,
     //微信用户绑定
     wxUserRelation: `${orign}/api/wx/wxUserRelation`,
+    //微信用户绑定查询
+    selectWxUserRelation: `${orign}/api/wx/selectWxUserRelation`,
     //微信用户案件转接绑定
     wxCaseBaseInfoRelation: `${orign}/auth/wx/wxCaseBaseInfoRelation`,
     //微信用户报案信息缓存查询
