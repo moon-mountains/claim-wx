@@ -1367,6 +1367,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
@@ -2353,7 +2355,29 @@ var render = function() {
             }
           ]
         },
-        [_c("van-empty", { attrs: { description: "暂未关联账号" } })],
+        [
+          _c("van-empty", { attrs: { description: "暂未关联账号" } }),
+          _c(
+            "div",
+            { staticStyle: { margin: "16px" } },
+            [
+              _c(
+                "van-button",
+                {
+                  attrs: {
+                    round: "",
+                    block: "",
+                    type: "info",
+                    to: "/addUserRelation",
+                    icon: "add-o"
+                  }
+                },
+                [_vm._v("添加关联")]
+              )
+            ],
+            1
+          )
+        ],
         1
       ),
       _c(
@@ -2391,24 +2415,27 @@ var render = function() {
               })
             ],
             1
+          ),
+          _c(
+            "div",
+            { staticStyle: { margin: "16px" } },
+            [
+              _c(
+                "van-button",
+                {
+                  attrs: {
+                    round: "",
+                    block: "",
+                    type: "danger",
+                    to: "/deleteUserRelation",
+                    icon: "close"
+                  }
+                },
+                [_vm._v("取消关联")]
+              )
+            ],
+            1
           )
-        ],
-        1
-      ),
-      _c(
-        "van-grid",
-        { attrs: { clickable: "", "column-num": 2 } },
-        [
-          _c("van-grid-item", {
-            attrs: { icon: "add-o", text: "添加关联", to: "/addUserRelation" }
-          }),
-          _c("van-grid-item", {
-            attrs: {
-              icon: "close",
-              text: "取消关联",
-              to: "/deleteUserRelation"
-            }
-          })
         ],
         1
       ),
